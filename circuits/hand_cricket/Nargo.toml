@@ -1,0 +1,6 @@
+[package]
+name = "hand_cricket"
+type = "bin"
+authors = [""]
+
+[dependencies]

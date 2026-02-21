@@ -1,0 +1,4 @@
+number = "4"
+salt = "12345"
+commitment = "0x0e90db11090123af0f1811c2f5e71af1e7dc9e5689b86520137c26f6be477da5"
+number_revealed = "4"
